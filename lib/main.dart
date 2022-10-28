@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
                   SizedBox(
                     height: 20,
                   ),
-                  Text("Automatic Identity Verification whih enable you to verify your identity. ",
+                  Text("Automatic Identity Verification which enable you to verify your identity. ",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.black,
