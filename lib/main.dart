@@ -57,7 +57,7 @@ class HomePage extends StatelessWidget {
                 height: MediaQuery.of(context).size.height / 3,
                 decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage("assets/images/100344_accounts_user_icon.png.png")
+                    image: AssetImage("assets/images/cyber-attack.png"),
                   )
                 ),
               ),
