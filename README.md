@@ -1,5 +1,7 @@
 # myapp1
+# A sample app including home,login,signup
 
-![home](https://user-images.githubusercontent.com/19486593/198521547-382dced9-f78f-49bb-92b0-d24e8e7d5b17.png)
-![login](https://user-images.githubusercontent.com/19486593/198521565-acb49587-a3b4-460d-aabe-03b20a6e44d2.png)
-![signup](https://user-images.githubusercontent.com/19486593/198521825-6dd4c005-1968-4ce4-9509-a3a74b3f15f7.png)
+
+![home](https://user-images.githubusercontent.com/19486593/198847192-ce3938ac-e2bb-4f4c-a39a-d46321fd00de.png)
+![login](https://user-images.githubusercontent.com/19486593/198847193-01162be4-bce5-4d17-af90-14afbba0fb07.png)
+![signup](https://user-images.githubusercontent.com/19486593/198847195-11e983f7-cdb9-4720-a5a7-f98f630033ae.png)
